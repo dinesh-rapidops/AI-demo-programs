@@ -29,9 +29,9 @@ and write a program that returns a list that contains only the elements that are
 * [Exercise1](numpy-exercise/exercise1.py): Write a NumPy program to compute the multiplication of two given matrixes
 * [Exercise2](numpy-exercise/exercise2.py): Write a NumPy program to compute the outer product of two given vectors
 * [Exercise3](numpy-exercise/exercise3.py). Write a NumPy program to compute the cross product of two given vectors
-* [Exercise4](numpy-exercise/exercise4.py). Write a NumPy program to print lenght of vector
+* [Exercise4](numpy-exercise/exercise4.py). Write a NumPy program to print length of vector
 * [Exercise5](numpy-exercise/exercise5.py). Write a NumPy program to print shape property of the vector, matrix, tensor
-* [Exercise6](numpy-exercise/exercise6.py). Write a NumPy program to initlize empty matrix
+* [Exercise6](numpy-exercise/exercise6.py). Write a NumPy program to initialize empty matrix
 * [Exercise7](numpy-exercise/exercise7.py). Write a NumPy program to initlize zeros matrix
 * [Exercise8](numpy-exercise/exercise8.py). Write a NumPy program to initlize ones matrix
 * [Exercise9](numpy-exercise/exercise9.py). Write a NumPy program to initlize random normal matrix
