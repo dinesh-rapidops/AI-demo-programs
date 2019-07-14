@@ -32,11 +32,11 @@ and write a program that returns a list that contains only the elements that are
 * [Exercise4](numpy-exercise/exercise4.py). Write a NumPy program to print length of vector
 * [Exercise5](numpy-exercise/exercise5.py). Write a NumPy program to print shape property of the vector, matrix, tensor
 * [Exercise6](numpy-exercise/exercise6.py). Write a NumPy program to initialize empty matrix
-* [Exercise7](numpy-exercise/exercise7.py). Write a NumPy program to initlize zeros matrix
-* [Exercise8](numpy-exercise/exercise8.py). Write a NumPy program to initlize ones matrix
-* [Exercise9](numpy-exercise/exercise9.py). Write a NumPy program to initlize random normal matrix
+* [Exercise7](numpy-exercise/exercise7.py). Write a NumPy program to initialize zeros matrix
+* [Exercise8](numpy-exercise/exercise8.py). Write a NumPy program to initialize ones matrix
+* [Exercise9](numpy-exercise/exercise9.py). Write a NumPy program to initialize random normal matrix
 * [Exercise10](numpy-exercise/exercise10.py). Write a NumPy program to perform various matrix operations (+,=,/,*,**)
-* [Exercise11](numpy-exercise/exercise11.py). Write a NumPy program to get expotential of matrix
+* [Exercise11](numpy-exercise/exercise11.py). Write a NumPy program to get exponential of matrix
 * [Exercise12](numpy-exercise/exercise12.py). Write a NumPy program to compute the dot product of two given vectors
 * [Exercise13](numpy-exercise/exercise13.py). Write a NumPy program to compute the sum of two given vectors
 * [Exercise14](numpy-exercise/exercise14.py). Write a NumPy program to compute the mean of two given vectors

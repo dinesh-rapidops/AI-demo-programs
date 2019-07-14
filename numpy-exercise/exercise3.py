@@ -14,5 +14,5 @@ print(B)
 #  [4 8 6 8]
 #  [4 8 6 8]
 #  [4 8 6 8]]
-C = np.cross(A,B)
+C = np.dot(A,B)
 print(C)
