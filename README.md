@@ -41,3 +41,8 @@ and write a program that returns a list that contains only the elements that are
 * [Exercise13](numpy-exercise/exercise13.py). Write a NumPy program to compute the sum of two given vectors
 * [Exercise14](numpy-exercise/exercise14.py). Write a NumPy program to compute the mean of two given vectors
 * [Exercise15](numpy-exercise/exercise15.py). Write a NumPy program to demo indexing and slicing of vectors
+
+
+## Keras Exercise
+* [Exercise1](keras/exercise1.py): Simple keras example with sequential model
+* [Exercise2](keras/exercise2.py): Simple keras example with functional model
